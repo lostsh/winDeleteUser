@@ -63,3 +63,7 @@ _Cliquez **Ajouter**_
 1. *Cliquez* sur **Utilisateurs**
 2. *Selectionez* l'utilisateur que vous voulez **suprimer**
 3. *Cliquez droit dessus* et choisissez **supprimer**
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+Si vous avez de modifications a soumettre, ou que vous avez constater des erreures, n'hésitez pas a les corrigre sur le [dépot](hhttps://github.com/lostsh/winDeleteUser)
