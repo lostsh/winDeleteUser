@@ -1,8 +1,8 @@
 # Supprimer un utilisateur Windows
 
-1. Création d'un utilisateur avec privilèges administrateur
-2. Se connecter avec le profil de l'utilisateur ayant droit administrateur
-3. Supprimer le profile indésirable
+1. [Création d'un utilisateur avec privilèges administrateur](Création-de-l'utilisateur-avec-privilèges-administrateur)
+2. [Se connecter avec le profil de l'utilisateur ayant droit administrateur](Connection-sur-le-profil-qui-est-administeur)
+3. [Supprimer le profile indésirable](Suppression-de-l'utilisateur-indésirable)
 
 > Cette procédure s'applique a des systèmes Windows 10, elle n'est pas garantie pour des systèmes anterieurs.
 
