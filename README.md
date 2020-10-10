@@ -66,4 +66,4 @@ _Cliquez **Ajouter**_
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-Si vous avez de modifications a soumettre, ou que vous avez constater des erreures, n'hésitez pas a proposer des corrections sur le [dépot](hhttps://github.com/lostsh/winDeleteUser)
+Si vous avez de modifications a soumettre, ou que vous avez constater des erreures, n'hésitez pas a proposer des corrections sur le [dépot](https://github.com/lostsh/winDeleteUser)
